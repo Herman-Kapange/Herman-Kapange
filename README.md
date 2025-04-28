@@ -1,4 +1,4 @@
-# Herman Barnabas Kapange
+# Herman Kapange
 ### Full Stack Developer & Technology Leader
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hermankapange.com-brightgreen?style=flat-square)](https://hermankapange.com/)
